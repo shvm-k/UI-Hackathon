@@ -1,0 +1,12 @@
+@media only screen and (max-width: 1524px){
+    .img{
+        width: 100%;
+    }
+}
+
+
+@media only screen and (max-width: 1300px){
+    .img{
+        display: none;
+    }
+}

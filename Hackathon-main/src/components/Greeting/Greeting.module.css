@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css2?family=IM+Fell+DW+Pica+SC&display=swap');
+
+.welcome{
+    font-family: 'IM Fell DW Pica SC', serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 62px;
+
+    color: #6C4101;
+}
+
+.discover{
+    font-family: 'IM Fell DW Pica SC', serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 23px;
+    text-align: justify;
+    margin-top: 36px;
+
+    color: #AC4A06;
+}
+
+.foodText{
+    font-family: 'IM Fell DW Pica SC', serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: justify;
+
+    color: #6C5026
+}
+
+.lstText{
+    font-family: 'IM Fell DW Pica SC', serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: justify;
+
+    color: #6C5026;
+}
+
+.btn{
+    background: #CD5604;
+    border: 1px solid #5E2738;
+    border-radius: 5px;
+   padding-top: 6px;
+   padding-bottom: 10px;
+}
+
+.popular{
+    font-family: 'IM Fell DW Pica SC', serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 31px;
+
+    color: #6C4101;
+}
+
+.dish{
+    font-family: 'IM Fell DW Pica SC', serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 19px;
+    text-align: justify;
+
+    color: #000000;
+}
+
+.mainContainer{
+    background-Color: #EEE4C9;
+        box-shadow: 0px 4px 50px rgba(84, 50, 0, 0.23);
+         border-radius: 10px;
+        padding-left: 70px;
+          padding-right: 48px;
+          width: auto;
+          margin-right: 66px;
+          padding-top: 56px;
+          padding-bottom: 40px;
+          margin-top: 78px;
+}
+
+@media only screen and (max-width: 1300px){
+    .mainContainer{
+        margin-right: 44px;
+    }
+}

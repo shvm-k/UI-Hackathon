@@ -1,0 +1,10 @@
+.container{
+    display: flex;
+    /* justify-content: space-evenly; */
+}
+
+@media only screen and (max-width: 1400px){
+    .left{
+        margin-left: 44px;
+    }
+}
